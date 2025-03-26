@@ -8,7 +8,7 @@ This project involved creating two dashboards using Tableau to analyse and prese
 # Project Files:
 - **Dashboard File:** The Power BI dashboard file is available here: [Dashboard File](https://github.com/MadhurShekharBand/Tableau_Project_-_Sales_Dashboard/blob/27c6e4443b212920dffb596d2f4378150136635f/Dashboard%20-%20Tableau%20File.twbx)
 - **Data Files:** The data files in Microsoft Excel Comma Separated Values File (.csv) format are available here: [Data Files](https://github.com/MadhurShekharBand/Tableau_Project_-_Sales_Dashboard/tree/27c6e4443b212920dffb596d2f4378150136635f/Dashboard%20Icons)
-- **Dashboard Images:** The images used in the dashboard are available here: 
+- **Dashboard Images:** The images used in the dashboard are available here: [Dashboard Images](https://github.com/MadhurShekharBand/Tableau_Project_-_Sales_Dashboard/tree/c102a9138f4e4d8fa9facbb2c55e4a3240977e45/Dashboard%20Images)
 
 # Background:
 ### The questions I wanted to answer through my SQL queries were:
