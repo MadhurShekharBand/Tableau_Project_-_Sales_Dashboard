@@ -11,7 +11,7 @@ This project involved creating two dashboards using Tableau to analyse and prese
 - **Dashboard Images:** The images used in the dashboard are available here: [Dashboard Images](https://github.com/MadhurShekharBand/Tableau_Project_-_Sales_Dashboard/tree/c102a9138f4e4d8fa9facbb2c55e4a3240977e45/Dashboard%20Images)
 
 # Background:
-### The questions I wanted to answer through my SQL queries were:
+### The questions I wanted to answer through this project were:
 - **What are the total sales, profits, and quantities for the current year and the previous year?** <br>
 By summarizing these KPIs, we can evaluate overall business performance and identify any significant growth or decline trends. This insight helps in understanding revenue progression, profitability, and changes in demand over time, aiding in strategic planning and resource allocation.
 
